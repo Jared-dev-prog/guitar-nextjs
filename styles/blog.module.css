@@ -1,0 +1,34 @@
+.contenido {
+  padding: 1rem;
+}
+
+.contenido h3 {
+  font-weight: 900; 
+  margin: .5rem 0 0 0;
+}
+
+.contenido h1 {
+  text-align: center;
+}
+
+.fecha {
+  color: var(--primary);
+  font-size: 1.4rem;
+}
+
+.resumen {
+  display: -webkit-box;
+  -webkit-box-orient: vertical;
+  -webkit-line-clamp: 4;
+  overflow: hidden;
+  text-align: justify;
+}
+
+.img {
+  display: block;
+  margin: 0 auto;
+}
+
+.mt-3 {
+  margin-top: 3rem;
+}
